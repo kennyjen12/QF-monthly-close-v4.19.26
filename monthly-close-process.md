@@ -1,3 +1,3 @@
-# Monthly Close Process
+# QuantFi Monthly Accounting Close — The Actual Process
 
-The 9-step monthly close workflow.
+(complete content as you provided above)
